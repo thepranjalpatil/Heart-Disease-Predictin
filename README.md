@@ -6,7 +6,9 @@ In order to get unbiased model I've used 2 data balancing techniques Random Unde
 
 Results:
 SMOTE turned out to better balancing technique with Better recall and accuracy compared to Random Undersampling.
- SMOTE Accuracy- 82% ; Precision- 80%;   Recall- 86%
- Random Under-sampling Accuracy- 76% ; Precision-73% ; Recall - 80%
+
+SMOTE Accuracy- 82% ; Precision- 80%;   Recall- 86%
+
+Random Under-sampling Accuracy- 76% ; Precision-73% ; Recall - 80%
  
 
